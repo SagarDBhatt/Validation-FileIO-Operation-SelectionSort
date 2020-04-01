@@ -1,23 +1,15 @@
-/*********************************************************************
-//*																	*
-//*						 CIS611 Spring 2019 						*
-//* 						Sagar Bhatt 							* 
-//* 																*
-//* 					Program Assignment PA04						*
-//* 																*
-//* 					Class Description 							*
-//* 																*
-//* 																*
-//* 					Date Created 03/1/2019 						*
-//* 																*
-//* 					Saved in: SBHATTPA04						* 
-//*																	*
-//*********************************************************************/
+
+/*
+
+		The program reads data from a text file, sort the data using the selection sort algorithm,
+		and then store the sorted data in a different text file.
+		The data in the text file is sorted based on the product names,
+		then it should be sorted based on the product prices, and finally sorted data is stored in a text file.
+
+*/
 
 
-
-
-package SortingWithIOOperations;
+		package SortingWithIOOperations;
 
 import java.awt.HeadlessException;
 import java.io.File;
